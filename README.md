@@ -5,7 +5,7 @@ Olá usuário, a tradução do painel Pterodactyl está totalmente gratuita para
 Para aplicar a tradução do seu painel de controle basta copiar os arquivos utilizando ```SFTP``` dentro de uma paste de linguagem como por exemplo a ```/var/www/pterodactyl/resources/lang/en```. Caso tenha dúvidas de como enviar os arquivos basta olhar os tutorias a baixo.
 
 # Enviado arquivos via SFTP
-Leia atentamente para que não aja erros.
+Leia atentamente para que não haja erros.
 
 **Debian/Ubuntu/Centos**
 
