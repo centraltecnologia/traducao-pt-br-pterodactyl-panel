@@ -10,3 +10,12 @@ Leia atentamente para que não aja erros.
 **Debian/Ubuntu/Centos**
 
 ・Conecte-se a sua maquina e logo em seguida va para a pasta ```/var/www/pterodactyl/resources/lang```, escolha a pasta de linguagem que queira, recomendo a pasta ``en``, apague todos os arquivos que se encontram dentro da pasta, e logo em seguida faça upload dos arquivos. Aguarde o processo ser finalizado, e pronto seu painel vai estar totalmente traduzido.
+
+# Observações
+Todos os arquivos disponíveis para downloads foram traduzidos utilizando o ```Google Translater``` por isso caso encontre algum erro devo pedir que entre em contato com os responsáveis.
+
+# Créditos
+
+**zGumeloBr**
+```・Tradutor/Responsável.```
+
