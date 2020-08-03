@@ -1,6 +1,6 @@
-﻿<? php
+<?php
 
-Retorna [
+return [
     'index' => [
         'title' => 'Visualizando servidor: nome',
         'header' => 'Console do servidor',
