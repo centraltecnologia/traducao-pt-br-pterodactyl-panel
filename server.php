@@ -2,7 +2,7 @@
 
 return [
     'index' => [
-        'title' => 'Visualizando servidor: nome',
+        'title' => 'Visualizando servidor :name',
         'header' => 'Console do servidor',
         'header_sub' => 'Controle seu servidor em tempo real.',
     ],
