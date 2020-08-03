@@ -9,7 +9,4 @@ Leia atentamente para que não aja erros.
 
 **Debian/Ubuntu/Centos**
 
-・Conecte-se a sua maquina e logo em seguida va para a pasta ```/var/www/pterodactyl/resources/lang```.
-・Escolha a pasta de linguagem que queira, recomendo a pasta ``en``.
-・Apague todos os arquivos que se encontram dentro da pasta, e logo em seguida faça upload dos arquivos.
-・Aguarde o processo ser finalizado, e pronto seu painel vai estar totalmente traduzido.
+・Conecte-se a sua maquina e logo em seguida va para a pasta ```/var/www/pterodactyl/resources/lang```, escolha a pasta de linguagem que queira, recomendo a pasta ``en``, apague todos os arquivos que se encontram dentro da pasta, e logo em seguida faça upload dos arquivos. Aguarde o processo ser finalizado, e pronto seu painel vai estar totalmente traduzido.
