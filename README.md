@@ -1,3 +1,4 @@
+<a href="https://imgur.com/iGrxpFq"><img src="https://i.imgur.com/iGrxpFq.png" title="source: imgur.com" /></a>
 # Introdução
 Olá usuário, a tradução do painel Pterodactyl está totalmente gratuita para download, caso tenha alguma dúvida basta observar os tópicos a baixo.
 
