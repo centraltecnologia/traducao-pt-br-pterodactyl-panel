@@ -11,6 +11,9 @@ Leia atentamente para que não haja erros.
 
 ・Conecte-se a sua maquina e logo em seguida va para a pasta ```/var/www/pterodactyl/resources/lang```, escolha a pasta de linguagem que queira, recomendo a pasta ``en``, apague todos os arquivos que se encontram dentro da pasta, e logo em seguida faça upload dos arquivos. Aguarde o processo ser finalizado, e pronto seu painel vai estar totalmente traduzido.
 
+# Versao
+A tradução apresentado e somente compatível com as versões ```0.7.17 e 0.7.18``` do Painel Pterodactyl
+
 # Observações
 Todos os arquivos disponíveis para downloads foram traduzidos utilizando o ```Google Translater``` por isso caso encontre algum erro devo pedir que entre em contato com os responsáveis.
 
