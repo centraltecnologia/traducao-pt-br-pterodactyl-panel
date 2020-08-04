@@ -10,17 +10,19 @@ Leia atentamente e revise os comandos antes de utilizá-los para que não haja e
 
 **Debian/Ubuntu**
 
-```sudo su```(Entrando em modo administrador)
+```sudo su```
 
-```apt install git```(Instalando git para fazer download do script)
+```apt install git```
 
-```bash <(curl -s https://raw.githubusercontent.com/zGumeloBr/traducao-pt-br-pterodactyl-panel/master/traducao-pterodactyl-pt-br.sh)``` (Para fazer download e a execução do script)
+```bash <(curl -s https://raw.githubusercontent.com/zGumeloBr/traducao-pt-br-pterodactyl-panel/master/traducao-pterodactyl-pt-br.sh)```
 
 **CentOS**
 
-```sudo su```(Entrando em modo administrador)
-```yum install git```(Instalando git para fazer download do script)
-```bash <(curl -s https://raw.githubusercontent.com/zGumeloBr/traducao-pt-br-pterodactyl-panel/master/traducao-pterodactyl-pt-br.sh)``` (Para fazer download e a execução do script)
+```sudo su```
+
+```yum install git```
+
+```bash <(curl -s https://raw.githubusercontent.com/zGumeloBr/traducao-pt-br-pterodactyl-panel/master/traducao-pterodactyl-pt-br.sh)```
 
 # Versões suportadas
 A tradução apresentado e somente compatível com as versões ```0.7.17 e 0.7.18``` do Painel Pterodactyl
