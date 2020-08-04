@@ -1,7 +1,4 @@
 <a href="https://imgur.com/iGrxpFq"><img src="https://i.imgur.com/iGrxpFq.png" title="source: imgur.com" /></a>
-# Introdução
-Olá usuário, a tradução do painel Pterodactyl está totalmente gratuita para download, caso tenha alguma dúvida basta observar os tópicos a baixo.
-
 # Como utilizar
 Para aplicar a tradução no painel de controle iremos utilizar um pequeno ```script```, para utilizar o script corretamente observe as instruções listadas a baixo.
 
