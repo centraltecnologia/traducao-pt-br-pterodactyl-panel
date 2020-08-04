@@ -3,16 +3,24 @@
 Olá usuário, a tradução do painel Pterodactyl está totalmente gratuita para download, caso tenha alguma dúvida basta observar os tópicos a baixo.
 
 # Como utilizar
-Para aplicar a tradução do seu painel de controle basta copiar os arquivos utilizando ```SFTP``` dentro de uma paste de linguagem como por exemplo a ```/var/www/pterodactyl/resources/lang/en```. Caso tenha dúvidas de como enviar os arquivos basta olhar os tutorias a baixo.
+Para aplicar a tradução no painel de controle iremos utilizar um pequneo ```Script```, para utilizar o script corretamente observe as instruções listadas a baixo.
 
-# Enviado arquivos via SFTP
-Leia atentamente para que não haja erros.
+# Utilizando o script
+Leia atentamente e revise os comandos antes de utilizá-los para que não haja erros na tradução.
 
-**Debian/Ubuntu/Centos**
+**Debian/Ubuntu**
 
-・Conecte-se a sua maquina e logo em seguida va para a pasta ```/var/www/pterodactyl/resources/lang```, escolha a pasta de linguagem que queira, recomendo a pasta ``en``, apague todos os arquivos que se encontram dentro da pasta, e logo em seguida faça upload dos arquivos. Aguarde o processo ser finalizado, e pronto seu painel vai estar totalmente traduzido.
+```sudo su```(Entrando em modo administrador)
+```apt install git```(Instalando git para fazer download do script)
+```bash <(curl -s https://raw.githubusercontent.com/zGumeloBr/traducao-pt-br-pterodactyl-panel/master/traducao-pterodactyl-pt-br.sh)``` (Para fazer download e a execução do script)
 
-# Versão
+**CentOS**
+
+```sudo su```(Entrando em modo administrador)
+```yum install git```(Instalando git para fazer download do script)
+```bash <(curl -s https://raw.githubusercontent.com/zGumeloBr/traducao-pt-br-pterodactyl-panel/master/traducao-pterodactyl-pt-br.sh)``` (Para fazer download e a execução do script)
+
+# Versões suportadas
 A tradução apresentado e somente compatível com as versões ```0.7.17 e 0.7.18``` do Painel Pterodactyl
 
 # Observações
