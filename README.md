@@ -3,12 +3,12 @@
 Olá usuário, a tradução do painel Pterodactyl está totalmente gratuita para download, caso tenha alguma dúvida basta observar os tópicos a baixo.
 
 # Como utilizar
-Para aplicar a tradução no painel de controle iremos utilizar um pequneo ```Script```, para utilizar o script corretamente observe as instruções listadas a baixo.
+Para aplicar a tradução no painel de controle iremos utilizar um pequeno ```script```, para utilizar o script corretamente observe as instruções listadas a baixo.
 
 # Utilizando o script
 Leia atentamente e revise os comandos antes de utilizá-los para que não haja erros na tradução.
 
-**Debian/Ubuntu**
+**・Debian/Ubuntu**
 
 ```sudo su```
 
@@ -16,7 +16,7 @@ Leia atentamente e revise os comandos antes de utilizá-los para que não haja e
 
 ```bash <(curl -s https://raw.githubusercontent.com/zGumeloBr/traducao-pt-br-pterodactyl-panel/master/traducao-pterodactyl-pt-br.sh)```
 
-**CentOS**
+**・CentOS**
 
 ```sudo su```
 
