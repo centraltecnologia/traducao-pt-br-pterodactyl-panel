@@ -10,8 +10,8 @@ Leia atentamente e revise os comandos antes de utilizá-los para que não haja e
 
 **Debian/Ubuntu**
 
-```sudo su```(Entrando em modo administrador)
-```apt install git```(Instalando git para fazer download do script)
+```sudo su```(Entrando em modo administrador)\n
+```apt install git```(Instalando git para fazer download do script)\n
 ```bash <(curl -s https://raw.githubusercontent.com/zGumeloBr/traducao-pt-br-pterodactyl-panel/master/traducao-pterodactyl-pt-br.sh)``` (Para fazer download e a execução do script)
 
 **CentOS**
