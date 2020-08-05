@@ -14,6 +14,7 @@ return [
     'connection' => 'Conexão',
     'memory' => 'Memória',
     'cpu' => 'CPU',
+    'disk' => 'Disco',
     'status' => 'Status',
     'search' => 'Procurar',
     'suspended' => 'Suspenso ',
